@@ -63,7 +63,7 @@ input {
 }
 .warning {
   position: fixed;
-  top: 5em;
+  top: 15vh;
   left: 0;
   padding: 2em;
   display: flex;
